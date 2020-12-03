@@ -10,6 +10,9 @@ CI/CD - jenkins or travis
 DNS
 Read API
 Write API
+Caching
+LoadBalancing
+Benchmarking
 Orchetration
 
 Front-End: Angular vs 
