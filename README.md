@@ -8,6 +8,7 @@ authentication
 authorization
 CI/CD - jenkins or travis
 DNS
+CDN
 Read API
 Write API
 Caching
