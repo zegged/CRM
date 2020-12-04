@@ -11,4 +11,4 @@ class myMainClass():
 
 if __name__ == "__main__":
     mymain = myMainClass(3,5)
-    print(f"Add:{mymain.myFunc()}")
+    print(f"Added:{mymain.myFunc()}")
