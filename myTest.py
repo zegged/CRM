@@ -3,7 +3,7 @@ from myMain import myMainClass
 
 class myTest(unittest.TestCase):
     def setUp(self):
-        self.mymain = myMainClass(3,4)
+        self.mymain = myMainClass(3,8)
 #assert(False)
 #assert(True)
 
